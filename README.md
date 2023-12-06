@@ -4,3 +4,4 @@
 - using difftools
 # creating and managing branches
 - tag, timeline, merge, main 
+# resolving conflicts
